@@ -1,4 +1,4 @@
-baseURL = 'https://giadataribelli.com/'
-languageCode = 'it-It'
+baseURL = 'https://giadataribelli.netfly.app'
+languageCode = 'it-it'
 title = 'Giada Taribelli'
 theme = 'ananke'
