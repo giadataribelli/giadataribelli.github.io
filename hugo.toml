@@ -1,0 +1,4 @@
+baseURL = 'https://giadataribelli.com/'
+languageCode = 'it-It'
+title = 'Giada Taribelli'
+theme = 'ananke'
