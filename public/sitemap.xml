@@ -8,7 +8,11 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://giadataribelli.netfly.app/posts/</loc>
-    <lastmod>2024-03-02T12:00:00-05:00</lastmod>
+    <lastmod>2024-10-13T11:46:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://giadataribelli.netfly.app/archives/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

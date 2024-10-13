@@ -10,15 +10,48 @@ priority = 0.5
 filename = "sitemap.xml"
 
 [params]
-text_color = ""
-author = ""
-favicon = ""
-site_logo = ""
-description = "Pedagogista, podcaster, giocatrice di ruolo e viaggiatrice"
-# choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-background_color_class = "bg-lightest-blue"
-recent_posts_number = 100 
+defaultTheme = "auto"
+ShowShareButtons = true
+ShowReadingTime = true
+ShowBreadCrumbs = true
 
-[[params.ananke_socials]]
-name = "instagram"
+[params.homeInfoParams]
+Title = "Giada Taribelli"
+Content = "Pedagogista, podcaster, giocatrice di ruolo e viaggiatrice"
+
+[[params.socialIcons]]
+name = "Instagram"
 url = "https://www.instagram.com/giadadiruolo"
+
+[params.profileMode]
+enabled = false
+title = "Giada Taribelli"
+subtitle = "Pedagogista, podcaster, giocatrice di ruolo e viaggiatrice"
+imageUrl = ""
+imageTitle = "Una mia foto"
+imageWidth = 120
+imageHeight = 120
+
+  [[params.profileMode.buttons]]
+  name = "Cerca"
+  url = "/search"
+
+  [[params.profileMode.buttons]]
+  name = "Articoli"
+  url = "/posts"
+
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[[menu.main]]
+identifier = "posts"
+name = "articoli"
+url = "/posts/"
+weight = 10
+
+[[menu.main]]
+identifier = "podcasts"
+name = "podcasts"
+url = "https://duedraghialmicrofono.com/"
+weight = 30
