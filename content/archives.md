@@ -1,6 +1,6 @@
 ---
-title: "Archive"
+title: "Articoli"
 layout: "archives"
 url: "/archives/"
-summary: archives
+summary: articoli
 ---

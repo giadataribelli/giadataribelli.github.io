@@ -38,8 +38,7 @@ imageHeight = 120
 
   [[params.profileMode.buttons]]
   name = "Articoli"
-  url = "/posts"
-
+  url = "/archive/"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
@@ -47,8 +46,14 @@ home = [ "HTML", "RSS", "JSON" ]
 [[menu.main]]
 identifier = "posts"
 name = "articoli"
-url = "/posts/"
+url = "/archives/"
 weight = 10
+
+[[menu.main]]
+identifier = "search"
+name = "ricerca"
+url = "/search"
+weight = 5
 
 [[menu.main]]
 identifier = "podcasts"
