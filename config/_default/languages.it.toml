@@ -1,0 +1,30 @@
+disabled = false
+languageCode = "it"
+languageName = "Italian"
+weight = 1
+title = "Blowfish"
+
+[params]
+displayName = "IT"
+isoCode = "it"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "img/logo.png"
+description = "My awesome website"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+name = "Giada Taribelli"
+email = "giada.taribelli@gmail.com"
+image = "img/author.jpg"
+imageQuality = 100
+headline = "Pedagogista, viaggiatrice, podcaster e game master"
+bio = "A little bit about you"
+links = [
+  { email = "mailto:giada.taribelli@gmail.com" },
+  { instagram = "https://instagram.com/giadadiruolo" },
+  { patreon = "https://www.patreon.com/DueDraghiPlus" },
+  { spotify = "https://open.spotify.com/user/userid" },
+  { telegram = "https://t.me/username" },
+  { ko-fi = "https://ko-fi.com/username" },
+]

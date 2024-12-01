@@ -1,78 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-10-13T11:46:00+02:00</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2024-12-01T18:38:25+01:00</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/my-first-post/</loc>
+    <lastmod>2024-12-01T18:38:25+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-10-13T11:46:00+02:00</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2024-12-01T18:38:25+01:00</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/posts/trees-by-joyce-kilmer/</loc>
-    <lastmod>2024-10-13T11:46:00+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/posts/that-it-will-never-come-again-by-emily-dickinson/</loc>
-    <lastmod>2024-10-13T11:44:56+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/code/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/posts/if-by-rudyard-kipling/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/gist/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/syntax/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/categories/syntax/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/categories/themes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/archives/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/search/</loc>
-    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>http://localhost:1313/about/</loc>
+    <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
 </urlset>
