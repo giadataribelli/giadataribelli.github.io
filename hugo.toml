@@ -1,6 +1,6 @@
 baseURL = 'https://giadataribelli.netfly.app'
 languageCode = 'it-it'
-title = 'Giada Taribelli'
+#title = 'Giada Taribelli'
 theme = ["github.com/adityatelange/hugo-PaperMod"]
 resourceDir = "../resources"
 
@@ -32,16 +32,16 @@ imageTitle = "Una mia foto"
 imageWidth = 120
 imageHeight = 120
 
-  [[params.profileMode.buttons]]
-  name = "Cerca"
-  url = "/search"
+[[params.profileMode.buttons]]
+name = "Cerca"
+url = "/search"
 
-  [[params.profileMode.buttons]]
-  name = "Articoli"
-  url = "/archive/"
+[[params.profileMode.buttons]]
+name = "Articoli"
+url = "/archive/"
 
 [outputs]
-home = [ "HTML", "RSS", "JSON" ]
+home = ["HTML", "RSS", "JSON"]
 
 [[menu.main]]
 identifier = "posts"
