@@ -10,7 +10,7 @@ isoCode = "it"
 rtl = false
 dateFormat = "2 January 2006"
 logo = "img/logo.png"
-description = "My awesome website"
+description = "Pedagogista specializzata nella progettazione di esperienze educative e formative attraverso i giochi di ruolo."
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
@@ -18,13 +18,11 @@ name = "Giada Taribelli"
 email = "giada.taribelli@gmail.com"
 image = "img/author.jpg"
 imageQuality = 100
-headline = "Pedagogista, viaggiatrice, podcaster e game master"
-bio = "A little bit about you"
+headline = "Playful Mind Hungry Heart"
+bio = ""
 links = [
   { email = "mailto:giada.taribelli@gmail.com" },
   { instagram = "https://instagram.com/giadadiruolo" },
-  { patreon = "https://www.patreon.com/DueDraghiPlus" },
-  { spotify = "https://open.spotify.com/user/userid" },
-  { telegram = "https://t.me/username" },
-  { ko-fi = "https://ko-fi.com/username" },
+  { telegram = "https://t.me/giadadiruolo" },
+  { spotify = "https://open.spotify.com/show/1xUd7hMLVjCUcvDDtqyP5q?si=b4e9b6717de24425" },
 ]
