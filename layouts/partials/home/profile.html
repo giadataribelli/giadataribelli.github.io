@@ -1,0 +1,83 @@
+{{ $disableImageOptimization := .Site.Params.disableImageOptimization | default false }}
+<article class="{{ if not .Site.Params.homepage.showRecent }}
+  h-full
+  {{ end }} flex flex-col items-center justify-center text-center">
+  <header class="relative px-1 py-1 flex flex-col items-center mb-3">
+    {{ with .Site.Params.Author.image }}
+    {{ $authorImage := "" }}
+    {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
+    {{ $authorImage = resources.GetRemote . }}
+    {{ else }}
+    {{ $authorImage = resources.Get . }}
+    {{ end }}
+    {{ if $authorImage }}
+    {{ if not $disableImageOptimization }}
+    {{ $authorImage = $authorImage.Fill (print "288x288 q" ( $.Site.Params.Author.imagequality | default "96" )) }}
+    {{ end }}
+    <img class="mb-2 rounded-full h-36 w-36" width="144" height="144" alt="{{ $.Site.Params.Author.name | default " Author" }}"
+      src="{{ $authorImage.RelPermalink }}" />
+    {{ end }}
+    {{ end }}
+    <h1 class="text-4xl font-extrabold">
+      {{ .Site.Params.Author.name | default .Site.Title }}
+    </h1>
+    {{ with .Site.Params.Author.headline }}
+    <h2 class="text-xl text-neutral-500 dark:text-neutral-400">
+      {{ . | markdownify }}
+    </h2>
+    {{ end }}
+    <div class="mt-1 text-2xl">
+      {{ partialCached "author-links.html" . }}
+    </div>
+  </header>
+  <section class="prose dark:prose-invert">{{ .Content }}</section>
+</article>
+<article class="max-w-4xl mx-auto p-6 space-y-6">
+  <div class="text-lg md:text-2xl leading-relaxed text-secondary-700 dark:text-gray-300">
+    <p>
+      Sono una pedagogista specializzata nella progettazione di esperienze educative per ragazzi e adulti e mi occupo principalmente di sviluppare attività formative che promuovono l’apprendimento attraverso il gioco di ruolo.
+      Durante gli anni di formazione all’Università degli Studi di Milano Bicocca, infatti, ho scoperto il mondo del gioco di ruolo e me ne sono innamorata, diventando prima una giocatrice appassionata, poi una content-creator del settore e infine una game master.
+    </p>
+    <p>
+      La conoscenza sempre più approfondita e l’esperienza costante del mondo dei giochi di ruolo mi ha permesso di utilizzare questo strumento per finalità educative e formative, oltre che divulgative. Negli ultimi anni ho avuto l'opportunità di sviluppare diversi progetti insieme ad altre persone e realtà.
+    </p>
+  <h2 class="text-2xl font-semibold text-neutral-600 white:text-neutral-400 mt-6">
+    Turno di Guardia
+  </h2>
+    <p>
+      Uno dei progetti principali a cui lavoro è  
+      <a href="https://ilturnodiguardia.it/" class="text-primary-500 hover:text-primary-700">Il Turno di Guardia,</a>
+      esperienze residenziali per preadolescenti, adolescenti e adulti che mirano a creare nuovi legami, scoprire sé stessi e riflettere su tematiche formative attraverso il gioco di ruolo.
+    </p>
+  <h2 class="text-2xl font-semibold text-neutral-600 white:text-neutral-400 mt-6">
+    Scuole
+  </h2>
+    <p>
+      Nell’ambito scolastico mi occupo di progettare laboratori di gioco di ruolo che - con la sinergia tra strumenti psicopedagogici e avventura di gioco - facciano emergere determinate tematiche educative concordate con la scuola, o dinamiche che si vogliono esplorare all’interno del gruppo scelto.
+    </p>
+  <h2 class="text-2xl font-semibold text-neutral-600 white:text-neutral-400 mt-6">
+    Adulti
+  </h2>
+    <p>
+      Nel mondo degli adulti, invece, offro formazioni per gruppi privati e corsi di formazione, consulenze per la progettazione di esperienze ludico-formative ed esperienze di team building che utilizzano il gioco di ruolo e altri strumenti formativi per favorire la collaborazione e la relazione all’interno dei gruppi di lavoro.
+    </p>
+    <p>
+      Inoltre, sono game master per il progetto 
+      <a href="https://travelsanddragons.it/" class="text-primary-500 hover:text-primary-700">Travels&Dragons,</a>
+      un format di viaggi di gruppo che utilizza il gioco di ruolo per divulgare la storia e le leggende del territorio che viene visitato di volta in volta.
+    </p>
+  <h2 class="text-2xl font-semibold text-neutral-600 white:text-neutral-400 mt-6">
+    Podcast
+  </h2>
+    <p>
+      Sono anche podcaster, co-conduttrice e produttrice di 
+      <a href="https://open.spotify.com/show/1xUd7hMLVjCUcvDDtqyP5q?si=20ea328188844d3d" class="text-primary-500 hover:text-primary-700">Due Draghi al Microfono,</a>
+      <a href="https://open.spotify.com/show/5tExscuC59ILdVBHxDF2kz?si=a13c98b927764c66" class="text-primary-500 hover:text-primary-700">Storie di Vapore,</a>
+      <a href="https://open.spotify.com/show/78Db3i2bBJd5MFtdOxSyr1?si=6f09c3fa3dc340a3" class="text-primary-500 hover:text-primary-700">Due Draghi SideCast,</a>
+        di cui curo l’editing, il sound design e la produzione esecutiva degli episodi.
+    </p>
+  </div>
+</article>
+<section>
+  {{ partial "recent-articles/main.html" . }}
+</section>
