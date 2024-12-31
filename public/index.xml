@@ -4,31 +4,25 @@
     <title>Blowfish</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Blowfish</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>it</language>
     <managingEditor>giada.taribelli@gmail.com (Giada Taribelli)</managingEditor>
     <webMaster>giada.taribelli@gmail.com (Giada Taribelli)</webMaster>
-    
-    <lastBuildDate>Sun, 01 Dec 2024 18:38:25 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Dec 2024 18:38:25 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ciao, sono Giada</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Sun, 01 Dec 2024 18:38:25 +0100</pubDate>
-      <author>giada.taribelli@gmail.com (Giada Taribelli)</author>
+      <pubDate>Sun, 01 Dec 2024 18:38:25 +0100</pubDate><author>giada.taribelli@gmail.com (Giada Taribelli)</author>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description></description>
-      
     </item>
-    
     <item>
       <title></title>
       <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>giada.taribelli@gmail.com (Giada Taribelli)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>giada.taribelli@gmail.com (Giada Taribelli)</author>
       <guid>http://localhost:1313/about/</guid>
       <description></description>
-      
     </item>
-    
   </channel>
 </rss>
