@@ -32,7 +32,7 @@ giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [header]
-layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+layout = "fixed-fill" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
 showMenu = true
@@ -43,7 +43,7 @@ showScrollToTop = true
 
 [homepage]
 layout = "profile"               # valid options: page, profile, hero, card, background, custom
-homepageImage = "img/author.jpg" # used in: hero, and card
+homepageImage = "img/author.PNG" # used in: hero, and card
 showRecent = true
 showRecentItems = 5
 showMoreLink = false

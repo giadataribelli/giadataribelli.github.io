@@ -10,12 +10,13 @@ isoCode = "it"
 rtl = false
 dateFormat = "2 January 2006"
 description = "Pedagogista specializzata nella progettazione di esperienze educative e formative attraverso i giochi di ruolo."
+logo = "img/logo.PNG"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
 name = "Giada Taribelli"
 email = "giada.taribelli@gmail.com"
-image = "img/logo.PNG"
+image = "img/author.PNG"
 imageQuality = 100
 headline = "Playful Mind Hungry Heart"
 bio = ""
