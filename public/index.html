@@ -53,6 +53,9 @@
   
   
   
+  <script src="/lib/zoom/zoom.min.37d2094687372da3f7343a221a470f6b8806f7891aa46a5a03966af7f0ebd38b9fe536cb154e6ad28f006d184b294525a7c4054b6bbb4be62d8b453b42db99bd.js" integrity="sha512-N9IJRoc3LaP3NDoiGkcPa4gG94kapGpaA5Zq9/Dr04uf5TbLFU5q0o8AbRhLKUUlp8QFS2u7S&#43;Yti0U7QtuZvQ=="></script>
+  
+  
   
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
@@ -161,10 +164,7 @@
   </div>
   
   
-  <div class="min-h-[148px]"></div>
-<div class="fixed inset-x-0 pl-[24px] pr-[24px] bg-neutral dark:bg-neutral-800" style="z-index:100">
-  <div class="relative max-w-[64rem] ml-auto mr-auto">
-    <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
+  <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
     class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start space-x-3">
     
     
@@ -363,19 +363,6 @@
 
 
 
-<script>
-    (function () {
-        var $mainmenu = $('.main-menu');
-        var path = window.location.pathname;
-        $mainmenu.find('a[href="' + path + '"]').each(function (i, e) {
-            $(e).children('p').addClass('active');
-        });
-    })();
-</script>
-
-
-  </div>
-</div>
 
   
   <div class="relative flex flex-col grow">
@@ -396,7 +383,7 @@
     
     
     <img class="mb-2 rounded-full h-36 w-36" width="144" height="144" alt="Giada Taribelli"
-      src="/img/author_hu6998574535583740640.PNG" />
+      src="/img/author_hu12961571552581859583.PNG" />
     
     
     <h1 class="text-4xl font-extrabold">
@@ -490,6 +477,7 @@
   <section class="prose dark:prose-invert"></section>
 </article>
 <article class="max-w-4xl mx-auto p-6 space-y-6">
+<section>
   <div class="text-lg md:text-2xl leading-relaxed text-secondary-700 dark:text-gray-300">
     <p>
       Sono una pedagogista specializzata nella progettazione di esperienze educative innovative per ragazzi e adulti, 
@@ -558,7 +546,7 @@
       </a> Mi occupo dell’editing, del sound design e della produzione esecutiva.
     </p>
   </div>
-</article>
+</section>
 <section>
   
 
@@ -674,6 +662,7 @@
 
 
 </section>
+</article>
 
   
 
@@ -701,6 +690,12 @@
 
   </div>
   <script>
+    
+    mediumZoom(document.querySelectorAll("img:not(.nozoom)"), {
+      margin: 24,
+      background: 'rgba(0,0,0,0.5)',
+      scrollOffset: 0,
+    })
     
   </script>
   
