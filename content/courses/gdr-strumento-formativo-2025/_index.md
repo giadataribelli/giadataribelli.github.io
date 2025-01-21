@@ -102,4 +102,4 @@ Massimo 8 posti disponibili (che è il numero limite dei posti del primo modulo)
 COSTO: 300€ (sconto 10% per chi si iscrive dal 20 al 25 dicembre: 270€)
 
 ---
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd1s3KzrhonEUiwRfw7Ex76LHh4-Jf9dSMRP58FNf7k9jzGtg/viewform?embedded=true" width="640" height="1200" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd1s3KzrhonEUiwRfw7Ex76LHh4-Jf9dSMRP58FNf7k9jzGtg/viewform?embedded=true" width="320" height="1200" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
