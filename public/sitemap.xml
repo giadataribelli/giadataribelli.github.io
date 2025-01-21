@@ -21,7 +21,12 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:1313/courses/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/courses/gdr-strumento-formativo-2025/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
