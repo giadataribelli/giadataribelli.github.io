@@ -4,12 +4,10 @@
     <title>Tags on Giada Taribelli</title>
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Giada Taribelli</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>it</language>
     <managingEditor>giada.taribelli@gmail.com (Giada Taribelli)</managingEditor>
     <webMaster>giada.taribelli@gmail.com (Giada Taribelli)</webMaster>
-    
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    
   </channel>
 </rss>
