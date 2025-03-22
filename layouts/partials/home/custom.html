@@ -32,6 +32,9 @@
   </header>
   <section class="prose dark:prose-invert">{{ .Content }}</section>
 </article>
+<section>
+  {{ partial "recent-articles/main.html" . }}
+</section>
 <article class="max-w-4xl mx-auto p-6 space-y-6">
 <section>
   <div class="text-lg md:text-2xl leading-relaxed text-secondary-700 dark:text-gray-300">
@@ -102,8 +105,5 @@
       </a> Mi occupo dell’editing, del sound design e della produzione esecutiva.
     </p>
   </div>
-</section>
-<section>
-  {{ partial "recent-articles/main.html" . }}
 </section>
 </article>

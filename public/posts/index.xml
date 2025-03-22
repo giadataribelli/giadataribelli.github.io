@@ -8,8 +8,15 @@
     <language>it</language>
     <managingEditor>giada.taribelli@gmail.com (Giada Taribelli)</managingEditor>
     <webMaster>giada.taribelli@gmail.com (Giada Taribelli)</webMaster>
-    <lastBuildDate>Wed, 01 Jan 2025 00:01:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 18:00:25 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Perché il bleed fa così paura?</title>
+      <link>http://localhost:1313/posts/paura-del-bleed/</link>
+      <pubDate>Fri, 14 Feb 2025 18:00:25 +0100</pubDate><author>giada.taribelli@gmail.com (Giada Taribelli)</author>
+      <guid>http://localhost:1313/posts/paura-del-bleed/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Ciao, sono Giada</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
