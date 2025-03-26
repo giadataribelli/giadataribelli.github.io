@@ -1,6 +1,6 @@
 ---
 title: "Differenziare gli incontri sfruttando la Teoria delle Intelligenze Multiple"
-date: 2025-03-26 T18:00:25+01:00
+date: 2025-03-26T18:00:25+01:00
 draft: false
 description: "Spiego le intelligenze multiple"
 ---
