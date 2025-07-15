@@ -13,7 +13,7 @@ cascade:
     alt="giada gioca"
 >}}
 
-Il primo corso di formazione è concluso da poco ed è stato un successo.
+Il primo corso di formazione è stato un successo.
 Grazie a tutte le persone iscritte per l’incredibile interesse ed entusiasmo dimostrati!
 Il **prossimo corso** in partenza sarà a novembre e trovate tutte le informazioni in questa pagina.
 
@@ -49,7 +49,7 @@ Totale ore di formazione: 16
 
 • 14 – 18 sperimentazione e formazione sugli strumenti di debriefing
 
-**Domenica 2 febbraio:**
+**Domenica 9 novembre:**
 
 • 9 – 11 formazione sulla gestione del tavolo e sul ruolo dell’osservatore
 
@@ -82,25 +82,24 @@ Numeri partecipanti: Minimo 6, massimo 16 partecipanti
 
 Numero formatrici: 1
 
-
 Totale ore di formazione: 12
 
 
 ### PROGRAMMA
 
-Martedì 11 novembre: introduzione al gioco di ruolo come strumento educativo
-Martedì 18 novembre: la costruzione del sistema di gioco e la scheda del personaggio
-Martedì 25 novembre: settare il genere, l’ambientazione, il tono
-Martedì 2 dicembre: scrivere il pitch e la struttura di base dell’avventura
-Martedì 9 dicembre: la costruzione dell’outline dell’avventura
-Martedì 16 dicembre: conclusioni e avvio dei progetti
+- Martedì 11 novembre: introduzione al gioco di ruolo come strumento educativo
+- Martedì 18 novembre: la costruzione del sistema di gioco e la scheda del personaggio
+- Martedì 25 novembre: settare il genere, l’ambientazione, il tono
+- Martedì 2 dicembre: scrivere il pitch e la struttura di base dell’avventura
+- Martedì 9 dicembre: la costruzione dell’outline dell’avventura
+- Martedì 16 dicembre: conclusioni e avvio dei progetti
 
 COSTO: 120€
 
 ## Pacchetto “All inclusive”
-Per chi vuole acquistare entrambi i moduli a un prezzo vantaggioso, per un totale di 28 ore di formazione sulla teoria, gli strumenti e le tecniche (di cui 16 con la presenza di due formatrici), comprensive di esercitazioni e feedback.
+Per chi vuole acquistare entrambi i moduli a un prezzo vantaggioso, per un totale di 28 ore di formazione sulla teoria, gli strumenti e le tecniche (di cui 16 dal vivo e con la presenza di due formatrici), comprensive di esercitazioni e feedback.
 
-Massimo 8 posti disponibili (che è il numero limite dei posti del primo modulo)
+Massimo 8 posti disponibili (che è il numero limite dei posti del primo modulo).
 
 COSTO: 300€
 
