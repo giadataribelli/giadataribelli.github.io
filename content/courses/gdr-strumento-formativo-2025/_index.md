@@ -31,7 +31,7 @@ Dedicato soprattutto a chi è incuriosito da questo strumento e non ha mai prova
 
 Date: 8-9 novembre 2025
 
-Luogo: Via Piranesi 12, Milano
+Luogo: Via Paolo Veronese, 4 Varese (VA)
 
 Numeri partecipanti: minimo 6, massimo 8
 
