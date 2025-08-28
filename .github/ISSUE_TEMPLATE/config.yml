@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentazione progetto (README)
+    url: https://github.com/OWNER/REPO/blob/main/README.md
+    about: Leggi il README prima di aprire una issue
+  - name: ADRs
+    url: https://github.com/OWNER/REPO/tree/main/docs/adrs
+    about: Contesto e decisioni architetturali
+

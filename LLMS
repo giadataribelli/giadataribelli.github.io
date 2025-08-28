@@ -1,0 +1,49 @@
+LLMS — Playbook per agenti LLM in questo repo
+
+Principi
+- DDD + Architettura esagonale + TDD. Gli ADR in `docs/adrs` sono la fonte di verità.
+- Cambi minimi e focalizzati. Niente fix non richiesti. Rispetta i ruoli e gli scope definiti nel README.
+
+Flusso operativo (sempre in questo ordine)
+1) Leggi gli ADR
+   - Esamina `README.md` e i documenti in `docs/adrs` pertinenti al cambiamento.
+   - Se trovi ambiguità o conflitti, annota le assunzioni e prepara una modifica ADR (vedi step 2).
+
+2) Modifica la documentazione se necessario
+   - Aggiorna ADR esistenti o aggiungine di nuovi in `docs/adrs/NNNN-titolo-kebab.md` (Status, Data, Decisione, Razionale, Conseguenze).
+   - Aggiorna `README.md` se cambia stack, convenzioni o flussi di alto livello.
+
+3) Scrivi il test (TDD)
+   - Aggiungi test che fallisce prima dell’implementazione.
+   - Unit/integration: Vitest in `src/modules/**/{domain,application}` o in `src/tests` se condiviso.
+   - E2E critici: Playwright in `tests/e2e` (solo quando necessario).
+   - Comandi utili: `pnpm test`, `pnpm test -t <pattern>`.
+
+4) Procedi con la modifica (implementazione minima)
+   - Lavora nel layer corretto: domain → application → infrastructure → presentation (Next.js API/UI).
+   - Rispetta ports/adapters; niente dipendenze framework nel dominio.
+   - Validazione input con Zod nelle API; autorizzazioni a livello di use case (RBAC) e middleware.
+   - Se serve schema DB: modifica `prisma/schema.prisma` e crea migrazione con `pnpm prisma migrate dev -n <nome>`.
+
+5) Verifica che il test passi
+   - Esegui `pnpm test` (e `pnpm test:e2e` se hai toccato flussi end‑to‑end).
+   - Correggi finché la suite è verde. Mantieni copertura sensata sul dominio.
+
+6) Commit atomico della feature
+   - Usa Conventional Commits: `tipo(scope): descrizione`.
+   - Tipi: feat, fix, docs, style, refactor, perf, test, build, ci, chore, revert. Breaking: aggiungi `!` o footer `BREAKING CHANGE:`.
+   - Scope ammessi (vedi README): identity, courses, booking, notifications, content, auth, email, api, ui, prisma, db, infra, shared, config, deps, ci, release.
+   - Includi nel commit sia i test sia l’implementazione correlata (un cambiamento logico per commit).
+   - Esempi: `feat(booking): impedisci overbooking con vincolo univoco` | `fix(auth): correggi refresh sessione`.
+
+Strumenti e comandi
+- Dev: `pnpm dev` | Lint/format: `pnpm lint` | Build: `pnpm build`.
+- Prisma: `pnpm prisma generate` | `pnpm prisma migrate dev` | deploy: `pnpm prisma migrate deploy`.
+- Test: `pnpm test` (Vitest) | `pnpm test:e2e` (Playwright).
+
+Note di qualità
+- Tipi stretti in TypeScript, error handling consistente (Result/exception boundary), side‑effects confinati negli adapter.
+- Non introdurre dipendenze superflue; mantenere coerenza con lo stile esistente.
+
+Quando aprire/aggiornare un ADR
+- Se una scelta impatta architettura, modello dati o policy di dominio, crea/aggiorna un ADR prima della modifica funzionale.

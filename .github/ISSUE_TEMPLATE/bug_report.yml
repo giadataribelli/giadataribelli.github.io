@@ -1,0 +1,61 @@
+name: Bug report
+description: Segnala un malfunzionamento
+title: "fix(scope): breve descrizione del bug"
+labels: [bug]
+body:
+  - type: checkboxes
+    id: preflight
+    attributes:
+      label: Preflight
+      description: Conferma di aver letto la documentazione
+      options:
+        - label: Ho letto README, LLMS e ADR rilevanti
+          required: true
+        - label: Ho cercato issue simili
+          required: true
+  - type: input
+    id: scope
+    attributes:
+      label: Scope (dominio/sottosistema)
+      description: Esempi — booking, courses, auth, api, ui, prisma, db, infra
+      placeholder: booking
+  - type: textarea
+    id: summary
+    attributes:
+      label: Descrizione
+      description: Cosa non funziona? Comportamento atteso vs osservato
+      placeholder: |
+        Quando provo a prenotare...
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Passi per riprodurre
+      placeholder: |
+        1. Vai su ...
+        2. Clicca ...
+        3. Vedi l'errore ...
+  - type: textarea
+    id: env
+    attributes:
+      label: Ambiente
+      placeholder: |
+        Browser/OS, Node, DB, versione app
+  - type: textarea
+    id: logs
+    attributes:
+      label: Log e screenshot
+      render: shell
+  - type: checkboxes
+    id: tests
+    attributes:
+      label: Test
+      options:
+        - label: Ho aggiunto/aggiornato un test che fallisce
+        - label: Ho verificato che il test fallisca prima della fix
+  - type: textarea
+    id: notes
+    attributes:
+      label: Note aggiuntive
+

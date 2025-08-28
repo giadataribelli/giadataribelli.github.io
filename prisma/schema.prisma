@@ -1,0 +1,84 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id        String   @id @default(uuid()) @db.Uuid
+  email     String   @unique
+  name      String?
+  role      Role     @default(CLIENT)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  bookings  Booking[]
+  courses   Course[] @relation("CourseOwner")
+}
+
+model Course {
+  id          String    @id @default(uuid()) @db.Uuid
+  title       String
+  description String
+  tags        String[]  @default([])
+  capacity    Int
+  visibility  Visibility @default(PUBLIC)
+  ownerId     String    @db.Uuid
+  owner       User      @relation("CourseOwner", fields: [ownerId], references: [id])
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+
+  sessions    Session[]
+}
+
+model Session {
+  id         String    @id @default(uuid()) @db.Uuid
+  courseId   String    @db.Uuid
+  course     Course    @relation(fields: [courseId], references: [id])
+  startAt    DateTime
+  endAt      DateTime
+  location   String?
+  onlineLink String?
+  capacityOverride Int?
+  createdAt  DateTime  @default(now())
+  updatedAt  DateTime  @updatedAt
+
+  bookings   Booking[]
+
+  @@index([courseId, startAt])
+}
+
+model Booking {
+  id        String   @id @default(uuid()) @db.Uuid
+  sessionId String   @db.Uuid
+  userId    String   @db.Uuid
+  status    BookingStatus @default(PENDING)
+  createdAt DateTime @default(now())
+
+  session   Session  @relation(fields: [sessionId], references: [id])
+  user      User     @relation(fields: [userId], references: [id])
+
+  @@unique([sessionId, userId])
+  @@index([userId])
+}
+
+enum Role {
+  ADMIN
+  CREATOR
+  CLIENT
+}
+
+enum Visibility {
+  PUBLIC
+  PRIVATE
+  UNLISTED
+}
+
+enum BookingStatus {
+  PENDING
+  CONFIRMED
+  CANCELLED
+}

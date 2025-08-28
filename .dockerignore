@@ -1,0 +1,14 @@
+node_modules
+.next
+out
+dist
+coverage
+npm-debug.log*
+pnpm-lock.yaml
+yarn.lock
+.DS_Store
+.env*
+!.env.example
+docker/postgres
+**/*.swp
+**/*.log

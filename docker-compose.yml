@@ -1,0 +1,71 @@
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: giada
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  app:
+    build: .
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      NODE_ENV: development
+      NEXT_TELEMETRY_DISABLED: "1"
+      WATCHPACK_POLLING: "1"
+      DATABASE_URL: postgresql://postgres:postgres@db:5432/giada?schema=public
+      RESET_ON_MIGRATE_FAILURE: "true"
+      BETTER_AUTH_SECRET: dev-dev-dev
+      BETTER_AUTH_URL: http://localhost:3000
+      RESEND_API_KEY: test
+      RESEND_FROM: Giada <noreply@example.test>
+      APP_BASE_URL: http://localhost:3000
+    ports:
+      - "3000:3000"
+      - "5555:5555" # Prisma Studio
+    volumes:
+      - .:/app
+      - node_modules:/app/node_modules
+
+  app_preview:
+    profiles: ["preview"]
+    build: .
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      NODE_ENV: production
+      NEXT_TELEMETRY_DISABLED: "1"
+      DATABASE_URL: postgresql://postgres:postgres@db:5432/giada?schema=public
+      BETTER_AUTH_SECRET: dev-dev-dev
+      BETTER_AUTH_URL: http://localhost:3000
+      RESEND_API_KEY: test
+      RESEND_FROM: Giada <noreply@example.test>
+      APP_BASE_URL: http://localhost:3000
+    command: >-
+      sh -lc "
+        npx prisma generate && \
+        npx prisma migrate deploy && \
+        npm run build && \
+        npm run start -- -H 0.0.0.0 -p 3000
+      "
+    ports:
+      - "3000:3000"
+    volumes:
+      - .:/app
+      - node_modules:/app/node_modules
+
+volumes:
+  postgres_data:
+  node_modules:

@@ -1,0 +1,56 @@
+name: Feature request
+description: Proponi una nuova funzionalità o miglioramento
+title: "feat(scope): breve descrizione della feature"
+labels: [enhancement]
+body:
+  - type: checkboxes
+    id: preflight
+    attributes:
+      label: Preflight
+      options:
+        - label: Ho letto README, LLMS e ADR rilevanti
+          required: true
+        - label: Ho verificato che non esista già
+          required: true
+  - type: input
+    id: scope
+    attributes:
+      label: Scope (dominio/sottosistema)
+      placeholder: courses
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problema/obiettivo
+      description: Quale problema risolve o quale valore crea?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposta
+      description: Descrivi la soluzione a livello alto (dominio/use case)
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria
+      description: Casi da soddisfare, comportamenti attesi
+      placeholder: |
+        - L’utente può ...
+        - Mostrare errore quando ...
+  - type: checkboxes
+    id: adr
+    attributes:
+      label: ADR
+      options:
+        - label: Non necessario
+        - label: Richiesto un nuovo ADR o modifica esistente
+  - type: textarea
+    id: testplan
+    attributes:
+      label: Test plan
+      description: Quali test vanno aggiunti? (unit/app/e2e)
+  - type: textarea
+    id: notes
+    attributes:
+      label: Note/contesto
+

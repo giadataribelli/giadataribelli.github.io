@@ -1,0 +1,50 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  meta-checks:
+    name: Meta checks (docs/ADRs)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check required docs exist
+        run: |
+          test -f README.md
+          test -f LLMS
+          test -d docs/adrs
+
+  node-ci:
+    name: Node CI (lint/build/test)
+    if: ${{ hashFiles('package.json') != '' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Use PNPM
+        uses: pnpm/action-setup@v3
+        with:
+          version: 9
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'pnpm'
+      - name: Install dependencies
+        run: |
+          if [ -f pnpm-lock.yaml ]; then pnpm install --frozen-lockfile; else pnpm install; fi
+      - name: Prisma generate (if schema exists)
+        if: ${{ hashFiles('prisma/schema.prisma') != '' }}
+        run: pnpm prisma generate
+      - name: Lint (if script exists)
+        run: |
+          node -e "const p=require('./package.json'); process.exit(!(p.scripts&&p.scripts.lint));" || pnpm -s lint
+      - name: Build (if script exists)
+        run: |
+          node -e "const p=require('./package.json'); process.exit(!(p.scripts&&p.scripts.build));" || pnpm -s build
+      - name: Test (if script exists)
+        run: |
+          node -e "const p=require('./package.json'); process.exit(!(p.scripts&&p.scripts.test));" || pnpm -s test --reporter=dot
+
