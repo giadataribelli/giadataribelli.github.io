@@ -35,7 +35,7 @@ Luogo: Via Paolo Veronese, 4 Varese (VA)
 
 Numeri partecipanti: minimo 6, massimo 8
 
-Numero formatrici: 2
+Numero formatrici: 2 (Giada Taribelli e Giulia Misani)
 
 Totale ore di formazione: 16
 
