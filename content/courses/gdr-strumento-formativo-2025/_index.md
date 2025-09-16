@@ -88,11 +88,11 @@ Totale ore di formazione: 12
 ### PROGRAMMA
 
 - Martedì 11 novembre: introduzione al gioco di ruolo come strumento educativo
-- Martedì 18 novembre: la costruzione del sistema di gioco e la scheda del personaggio
-- Martedì 25 novembre: settare il genere, l’ambientazione, il tono
-- Martedì 2 dicembre: scrivere il pitch e la struttura di base dell’avventura
-- Martedì 9 dicembre: la costruzione dell’outline dell’avventura
-- Martedì 16 dicembre: conclusioni e avvio dei progetti
+- Martedì 25 novembre: la costruzione del sistema di gioco e la scheda del personaggio
+- Martedì 2 dicembre: settare il genere, l’ambientazione, il tono
+- Martedì 9 dicembre: scrivere il pitch e la struttura di base dell’avventura
+- Martedì 16 dicembre: la costruzione dell’outline dell’avventura
+- Martedì 23 dicembre: conclusioni e avvio dei progetti
 
 COSTO: 120€
 
