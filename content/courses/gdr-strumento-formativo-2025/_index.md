@@ -73,7 +73,7 @@ Lezioni online il martedì nel tardo pomeriggio, della durata di 2h ciascuna, mo
 
 NB: Sarà possibile registrare le chiamate per chi non riuscirà a partecipare ad alcune delle date.
 
-Date: Martedì 11 novembre, 18 novembre, 25 novembre, 2 dicembre, 9 dicembre, 16 dicembre;
+Date: Martedì 11 novembre, 25 novembre, 2 dicembre, 9 dicembre, 16 dicembre, 23 dicembre;
 dalle 18:30 alle 20:30
 
 Luogo: online (i partecipanti riceveranno il link d’invito privato)
