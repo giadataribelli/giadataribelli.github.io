@@ -13,11 +13,12 @@ cascade:
     alt="giada gioca"
 >}}
 
-Il primo corso di formazione è stato un successo.
+Anche questo corso di formazione è andato sold-out in un giorno! 
 Grazie a tutte le persone iscritte per l’incredibile interesse ed entusiasmo dimostrati!
-Il **prossimo corso** in partenza sarà a novembre e trovate tutte le informazioni in questa pagina.
+Il **prossimo corso** in partenza sarà a marzo 2026 e trovate tutte le informazioni in questa pagina.
+NB: Alcune informazioni potrebbero cambiare a seconda della disponibilità delle formatrici e degli spazi da affittare. Il sito sarà costantemente aggiornato e prima dell'apertura delle iscrizioni riceverete la mail con le informazioni corrette e aggiornate. 
 
-Potete lasciare il vostro contatto nel form in fondo alla pagina per essere inseriti nella lista d’attesa ed essere contattati non appena apriranno le iscrizioni.
+Potete lasciare il vostro contatto nel form in fondo alla pagina per essere inseriti nella lista d’attesa ed essere contattati non appena apriranno le iscrizioni!
 
 ## Informazioni
 
@@ -29,7 +30,7 @@ Il corso ha una struttura molto interattiva e laboratoriale, che punta a far far
 
 Dedicato soprattutto a chi è incuriosito da questo strumento e non ha mai provato a giocare, ma anche a chi non ha mai avuto modo di fare da master e vorrebbe sperimentarsi in questo ruolo.
 
-Date: 8-9 novembre 2025
+Date: 14 - 15 marzo 2026
 
 Luogo: Via Paolo Veronese, 4 Varese (VA)
 
@@ -41,7 +42,7 @@ Totale ore di formazione: 16
 
 ### PROGRAMMA
 
-**Sabato 8 novembre:**
+**Sabato 14 marzo:**
 
 • 9 – 13 introduzione al gioco di ruolo + sessione di gioco
 
@@ -49,7 +50,7 @@ Totale ore di formazione: 16
 
 • 14 – 18 sperimentazione e formazione sugli strumenti di debriefing
 
-**Domenica 9 novembre:**
+**Domenica 15 marzo:**
 
 • 9 – 11 formazione sulla gestione del tavolo e sul ruolo dell’osservatore
 
@@ -63,7 +64,7 @@ Totale ore di formazione: 16
 
 • 17 – 18 feedback sulle prove
 
-COSTO: 195€
+COSTO: 210€
 
 ## MODULO 2. Progettare sessioni di gioco di ruolo, dall’idea alla realizzazione
 
@@ -87,21 +88,21 @@ Totale ore di formazione: 12
 
 ### PROGRAMMA
 
-- Martedì 11 novembre: introduzione al gioco di ruolo come strumento educativo
-- Martedì 25 novembre: la costruzione del sistema di gioco e la scheda del personaggio
-- Martedì 2 dicembre: settare il genere, l’ambientazione, il tono
-- Martedì 9 dicembre: scrivere il pitch e la struttura di base dell’avventura
-- Martedì 16 dicembre: la costruzione dell’outline dell’avventura
-- Martedì 23 dicembre: conclusioni e avvio dei progetti
+- Martedì 17 marzo: introduzione al gioco di ruolo come strumento educativo
+- Martedì 24 marzo: la costruzione del sistema di gioco e la scheda del personaggio
+- Martedì 31 marzo: settare il genere, l’ambientazione, il tono
+- Martedì 7 aprile: scrivere il pitch e la struttura di base dell’avventura
+- Martedì 14 aprile: la costruzione dell’outline dell’avventura
+- Martedì 21 aprile: conclusioni e avvio dei progetti
 
-COSTO: 120€
+COSTO: 180€
 
 ## Pacchetto “All inclusive”
 Per chi vuole acquistare entrambi i moduli a un prezzo vantaggioso, per un totale di 28 ore di formazione sulla teoria, gli strumenti e le tecniche (di cui 16 dal vivo e con la presenza di due formatrici), comprensive di esercitazioni e feedback.
 
 Massimo 8 posti disponibili (che è il numero limite dei posti del primo modulo).
 
-COSTO: 300€
+COSTO: 360€
 
 ---
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd1s3KzrhonEUiwRfw7Ex76LHh4-Jf9dSMRP58FNf7k9jzGtg/viewform?embedded=true" width="320" height="1200" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
