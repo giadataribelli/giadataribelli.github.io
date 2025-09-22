@@ -1,6 +1,6 @@
 ---
-title: "GDR come strumento formativo 2025"
-description: "Corso di Formazione sul Gioco di Ruolo come strumento educativo (sold out)"
+title: "GDR come strumento formativo 2026"
+description: "Corso di Formazione sul Gioco di Ruolo come strumento educativo"
 
 cascade:
   showDate: false
@@ -13,7 +13,7 @@ cascade:
     alt="giada gioca"
 >}}
 
-Anche questo corso di formazione è andato sold-out in un giorno! 
+Anche lo scorso corso di formazione è andato sold-out in un giorno! 
 Grazie a tutte le persone iscritte per l’incredibile interesse ed entusiasmo dimostrati!
 Il **prossimo corso** in partenza sarà a marzo 2026 e trovate tutte le informazioni in questa pagina.
 NB: Alcune informazioni potrebbero cambiare a seconda della disponibilità delle formatrici e degli spazi da affittare. Il sito sarà costantemente aggiornato e prima dell'apertura delle iscrizioni riceverete la mail con le informazioni corrette e aggiornate. 
@@ -74,7 +74,7 @@ Lezioni online il martedì nel tardo pomeriggio, della durata di 2h ciascuna, mo
 
 NB: Sarà possibile registrare le chiamate per chi non riuscirà a partecipare ad alcune delle date.
 
-Date: Martedì 11 novembre, 25 novembre, 2 dicembre, 9 dicembre, 16 dicembre, 23 dicembre;
+Date: Martedì 17 marzo, 24 marzo, 31 marzo, 7 aprile, 14 aprile, 21 aprile;
 dalle 18:30 alle 20:30
 
 Luogo: online (i partecipanti riceveranno il link d’invito privato)
