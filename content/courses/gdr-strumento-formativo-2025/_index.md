@@ -13,22 +13,20 @@ cascade:
     alt="giada gioca"
 >}}
 
-Anche lo scorso corso di formazione è andato sold-out in un giorno! 
+Anche lo scorso corso di formazione è andato sold-out in un giorno!
 Grazie a tutte le persone iscritte per l’incredibile interesse ed entusiasmo dimostrati!
 Il **prossimo corso** in partenza sarà a marzo 2026 e trovate tutte le informazioni in questa pagina.
-NB: Alcune informazioni potrebbero cambiare a seconda della disponibilità delle formatrici e degli spazi da affittare. Il sito sarà costantemente aggiornato e prima dell'apertura delle iscrizioni riceverete la mail con le informazioni corrette e aggiornate. 
-
 Potete lasciare il vostro contatto nel form in fondo alla pagina per essere inseriti nella lista d’attesa ed essere contattati non appena apriranno le iscrizioni!
 
 ## Informazioni
 
 Il corso di Formazione sul Gioco di Ruolo come strumento educativo è dedicato a tutti i professionisti che lavorano nell’ambito dell’educazione, della formazione, dell’istruzione e della cura della persona. Si rivolge a chi ha in mente di utilizzare questo strumento sia nei servizi in cui lavora già, che in progetti futuri che vorrebbe realizzare.
 
-Il corso ha una struttura molto interattiva e laboratoriale, che punta a far fare esperienza e pratica e si propone di arrivare alla fine del percorso con delle avventure pronte ad essere giocate.
+Il corso ha una struttura molto interattiva e laboratoriale, che punta a far fare esperienza e pratica e si propone di arrivare alla fine del percorso con delle avventure pronte ad essere giocate. È necessario considerare di investire del tempo anche fuori dalle lezioni per portare avanti il proprio progetto.
 
 ## MODULO 1. Sperimentazione del Gioco di Ruolo, delle tecniche di debriefing e della gestione del tavolo
 
-Dedicato soprattutto a chi è incuriosito da questo strumento e non ha mai provato a giocare, ma anche a chi non ha mai avuto modo di fare da master e vorrebbe sperimentarsi in questo ruolo.
+Dedicato a chi vuole sperimentare dal vivo cosa significhi giocare una sessione di gioco di ruolo (se non ha mai provato prima) e quali possano essere degli strumenti di debriefing. Sono i benvenuti anche tutti coloro che conoscono già lo strumento ma non si sono mai sperimentati come master. In queste giornate dal vivo infatti il focus sarà sulla parte pratica: sperimentiamo una sessione di gioco di ruolo e un debriefing con diversi strumenti e parliamo della gestione del tavolo da gioco provando a mettere in pratica i consigli direttamente masterando al gruppo. 
 
 Date: 14 - 15 marzo 2026
 
@@ -48,7 +46,7 @@ Totale ore di formazione: 16
 
 • 13 -14 pausa pranzo libera
 
-• 14 – 18 sperimentazione e formazione sugli strumenti di debriefing
+• 14 – 18 sperimentazione e formazione su alcuni strumenti di debriefing (Teatro Immagine e Teatro dell'Oppresso, Via del Cerchio)
 
 **Domenica 15 marzo:**
 
@@ -66,11 +64,10 @@ Totale ore di formazione: 16
 
 COSTO: 210€
 
+
 ## MODULO 2. Progettare sessioni di gioco di ruolo, dall’idea alla realizzazione
 
-Dedicato a chi conosce già lo strumento, ma ha bisogno di una formazione rispetto alla progettazione e alla scrittura delle avventure, soprattutto considerando gli obiettivi formativi.
-
-Lezioni online il martedì nel tardo pomeriggio, della durata di 2h ciascuna, molto interattive, con esercitazioni a coppie e in gruppi per arrivare alla fine del corso con un’avventura pronta da giocare.
+Dedicato a chi conosce già lo strumento, ma ha bisogno di una formazione rispetto alla progettazione e alla scrittura delle avventure, soprattutto considerando gli obiettivi formativi. Lezioni online il martedì nel tardo pomeriggio, della durata di 2h ciascuna, molto interattive, con esercitazioni a coppie e in gruppi per arrivare alla fine del corso con un’avventura pronta da giocare.
 
 NB: Sarà possibile registrare le chiamate per chi non riuscirà a partecipare ad alcune delle date.
 
