@@ -25,6 +25,11 @@ name = "Webinar"
 pageRef = "webinar"
 weight = 20
 
+[[main]]
+name = "Corso"
+pageRef = "webinar"
+weight = 20
+
 #[[main]]
 #  name = "example sub-menu 1"
 #  parent = "Parent"
