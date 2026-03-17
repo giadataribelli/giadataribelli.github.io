@@ -8,11 +8,6 @@ cascade:
   invertPagination: true
 ---
 
-{{< figure
-    src="2.jpeg"
-    alt="giada gioca"
->}}
-
 I corsi di formazione sul Gioco di Ruolo come strumento educativo sono dedicati a tutti i **professionisti** che lavorano nell’ambito dell’educazione, della formazione, dell’istruzione e della cura della persona. Si rivolgono a chi ha in mente di utilizzare questo strumento sia nei servizi in cui lavora già, che in progetti futuri che vorrebbe realizzare.
 
 I **corsi** hanno una struttura molto interattiva e laboratoriale, che punta a far fare esperienza e pratica.
