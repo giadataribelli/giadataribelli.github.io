@@ -21,5 +21,5 @@ Per rimanere aggiornati consiglio di entrare nel gruppo broadcast sul profilo In
 La quota di partecipazione è di **30 euro**.
 
 ## Webinar registrati
-Per chi non potesse partecipare in diretta, c'è la possibilità di accedere alla registrazione dei webinar compilando il seguente modulo e seguendo le indicazioni di pagamento che arriveranno per mail.
+Per chi non potesse partecipare in diretta, c'è la possibilità di accedere alla registrazione dei webinar inviando una mail a **giada.taribelli@gmail.com** con **oggetto: "Webinar (titolo webinar)"** e seguendo le indicazioni di pagamento che verranno ricevute.
 La quota per accedere alla registrazione è di **30 euro**.
