@@ -1,6 +1,6 @@
 ---
-title: "GDR come strumento formativo 2026"
-description: "Corso di Formazione sul Gioco di Ruolo come strumento educativo"
+title: "Corsi e webinar"
+description: "Corsi di formazione e webinar di approfondimento sul Gioco di Ruolo come strumento educativo"
 
 cascade:
   showDate: false
@@ -13,93 +13,70 @@ cascade:
     alt="giada gioca"
 >}}
 
-Anche lo scorso corso di formazione è andato sold-out in un giorno!
-Grazie a tutte le persone iscritte per l’incredibile interesse ed entusiasmo dimostrati!
-Il **prossimo corso** in partenza sarà a marzo 2026 e trovate tutte le informazioni in questa pagina.
-Potete lasciare il vostro contatto nel form in fondo alla pagina per essere inseriti nella lista d’attesa ed essere contattati non appena apriranno le iscrizioni!
+I corsi di formazione sul Gioco di Ruolo come strumento educativo sono dedicati a tutti i **professionisti** che lavorano nell’ambito dell’educazione, della formazione, dell’istruzione e della cura della persona. Si rivolgono a chi ha in mente di utilizzare questo strumento sia nei servizi in cui lavora già, che in progetti futuri che vorrebbe realizzare.
 
-## Informazioni
+I **corsi** hanno una struttura molto interattiva e laboratoriale, che punta a far fare esperienza e pratica.
+Esistono diverse tipologie di corsi a seconda dell'esperienza con lo strumento, della possibilità di partecipare in presenza o online e del livello di approfondimento che si vuole raggiungere.
 
-Il corso di Formazione sul Gioco di Ruolo come strumento educativo è dedicato a tutti i professionisti che lavorano nell’ambito dell’educazione, della formazione, dell’istruzione e della cura della persona. Si rivolge a chi ha in mente di utilizzare questo strumento sia nei servizi in cui lavora già, che in progetti futuri che vorrebbe realizzare.
+I **webinar** sono videolezioni su singoli argomenti, in cui c'è un approfondimento di tipo verticale e una metodologia di tipo frontale.
 
-Il corso ha una struttura molto interattiva e laboratoriale, che punta a far fare esperienza e pratica e si propone di arrivare alla fine del percorso con delle avventure pronte ad essere giocate. È necessario considerare di investire del tempo anche fuori dalle lezioni per portare avanti il proprio progetto.
+# CORSO BASE IN PRESENZA
+## Sperimentare il GdR e gli strumenti di debriefing, imparare a scrivere un'avventura, sperimentarsi nel ruolo di Master
 
-## MODULO 1. Sperimentazione del Gioco di Ruolo, delle tecniche di debriefing e della gestione del tavolo
+### A chi è dedicato
+Corso pensato per chi non conosce bene lo strumento e vuole sperimentare dal vivo cosa significhi giocare una sessione di gioco di ruolo, ma anche quali possano essere degli strumenti di debriefing. Sono i benvenuti anche tutti coloro che conoscono già lo strumento ma non si sono mai sperimentati come master.
 
-Dedicato a chi vuole sperimentare dal vivo cosa significhi giocare una sessione di gioco di ruolo (se non ha mai provato prima) e quali possano essere degli strumenti di debriefing. Sono i benvenuti anche tutti coloro che conoscono già lo strumento ma non si sono mai sperimentati come master. In queste giornate dal vivo infatti il focus sarà sulla parte pratica: sperimentiamo una sessione di gioco di ruolo e un debriefing con diversi strumenti e parliamo della gestione del tavolo da gioco provando a mettere in pratica i consigli direttamente masterando al gruppo. 
+### Modalità
+Due weekend in presenza in cui passare dalla sperimentazione alla teoria, per poi tornare dalla teoria alla pratica.
+Le quattro giornate di formazione intensiva saranno dalle 9 alle 18, con una pausa pranzo di un'ora circa. Per un totale di **32 ore di formazione**.
+Il corso partirà con un numero minimo di 6 partecipanti e un numero massimo di 10 partecipanti. Saranno presenti due formatrici (Giada Taribelli e Giulia Misani).
 
-Date: 14 - 15 marzo 2026
+### Luogo:
+È molto probabile che sarà presso Blue Zone Studio in Via Paolo Veronese, 4 Varese (VA)
 
-Luogo: Via Paolo Veronese, 4 Varese (VA)
+### Contenuti:
 
-Numeri partecipanti: minimo 6, massimo 8
+• Introduzione al gioco di ruolo come strumento educativo
+• Sessione di gioco
+• Sperimentazione e formazione su alcuni strumenti di debriefing (Teatro Immagine e Teatro dell'Oppresso, Via del Cerchio)
+• La costruzione del sistema di gioco e la scheda del personaggio
+• Il genere, l’ambientazione, il tono
+• Scrivere il pitch e la struttura di base dell’avventura
+• La costruzione dell’outline dell’avventura
+• La gestione del tavolo
+• Il ruolo del Custode del Campo
+• Sessione con prove da master e feedback
 
-Numero formatrici: 2 (Giada Taribelli e Giulia Misani)
+### Quota di partecipazione: 480€
+### Le iscrizioni apriranno il prossimo anno, se vuoi ricevere un avviso compila il form in fondo alla pagina
 
-Totale ore di formazione: 16
+# CORSO BASE ONLINE
+## Scrivi l'avventura per il tuo progetto: dall'idea alla stesura
 
-### PROGRAMMA
+### A chi è dedicato
+Corso pensato per chi ha bisogno di essere accompagnato nella stesura di un'avventura pensata ad hoc per il proprio progetto educativo.
 
-**Sabato 14 marzo:**
+### Modalità
+Sei incontri online in cui imparare a muoversi nella strutturazione e nella stesura di un'avventura di gioco di ruolo a partire dall'idea di progetto, dal target di utenti e dalla tematica educativa che si vuole approfondire. Sono previsi molti momenti di lavoro di gruppo per scrivere assieme ad altri professionisti una sessione che possa essere utilizzata nel proprio progetto. È possibile che questo richieda anche del lavoro a casa oltre ai momenti di formazione, completando alcuni compiti in modo da arrivare alla fine del corso con un lavoro completo che possa ricevere dei feedback dalla formatrice. 
+I sei incontri online sono una sera in settimana dalle 18:00 alle 20:30. Per un totale di **15 ore di formazione diretta + 10 ore circa di formazione indiretta** (compiti a casa).
+Il corso partirà con un numero minimo di 8 partecipanti e un numero massimo di 16 partecipanti.
 
-• 9 – 13 introduzione al gioco di ruolo + sessione di gioco
+### Luogo:
+È molto probabile che utilizzeremo la piattaforma Zoom.
 
-• 13 -14 pausa pranzo libera
+### Contenuti:
 
-• 14 – 18 sperimentazione e formazione su alcuni strumenti di debriefing (Teatro Immagine e Teatro dell'Oppresso, Via del Cerchio)
+• Introduzione al gioco di ruolo come strumento educativo
+• La costruzione del sistema di gioco e la scheda del personaggio
+• Il genere, l’ambientazione, il tono
+• Scrivere il pitch e la struttura di base dell’avventura
+• La costruzione dell’outline dell’avventura
+• La gestione del tavolo
+• Il ruolo del Custode del Campo
 
-**Domenica 15 marzo:**
+### Quota di partecipazione: 280€
+### Le iscrizioni apriranno il prossimo anno, se vuoi ricevere un avviso compila il form in fondo alla pagina
 
-• 9 – 11 formazione sulla gestione del tavolo e sul ruolo dell’osservatore
-
-• 11 – 12 tempo per studiare una sessione già scritta
-
-• 12 – 13 sessione con prove da master + osservatore
-
-• 13 – 14 pausa pranzo libera
-
-• 14 – 17 sessione con prove da master + osservatore
-
-• 17 – 18 feedback sulle prove
-
-COSTO: 210€
-
-
-## MODULO 2. Progettare sessioni di gioco di ruolo, dall’idea alla realizzazione
-
-Dedicato a chi conosce già lo strumento, ma ha bisogno di una formazione rispetto alla progettazione e alla scrittura delle avventure, soprattutto considerando gli obiettivi formativi. Lezioni online il martedì nel tardo pomeriggio, della durata di 2h ciascuna, molto interattive, con esercitazioni a coppie e in gruppi per arrivare alla fine del corso con un’avventura pronta da giocare.
-
-NB: Sarà possibile registrare le chiamate per chi non riuscirà a partecipare ad alcune delle date.
-
-Date: Martedì 17 marzo, 24 marzo, 31 marzo, 7 aprile, 14 aprile, 21 aprile;
-dalle 18:30 alle 20:30
-
-Luogo: online (i partecipanti riceveranno il link d’invito privato)
-
-Numeri partecipanti: Minimo 6, massimo 16 partecipanti
-
-Numero formatrici: 1
-
-Totale ore di formazione: 12
-
-
-### PROGRAMMA
-
-- Martedì 17 marzo: introduzione al gioco di ruolo come strumento educativo
-- Martedì 24 marzo: la costruzione del sistema di gioco e la scheda del personaggio
-- Martedì 31 marzo: settare il genere, l’ambientazione, il tono
-- Martedì 7 aprile: scrivere il pitch e la struttura di base dell’avventura
-- Martedì 14 aprile: la costruzione dell’outline dell’avventura
-- Martedì 21 aprile: conclusioni e avvio dei progetti
-
-COSTO: 180€
-
-## Pacchetto “All inclusive”
-Per chi vuole acquistare entrambi i moduli a un prezzo vantaggioso, per un totale di 28 ore di formazione sulla teoria, gli strumenti e le tecniche (di cui 16 dal vivo e con la presenza di due formatrici), comprensive di esercitazioni e feedback.
-
-Massimo 8 posti disponibili (che è il numero limite dei posti del primo modulo).
-
-COSTO: 360€
 
 ---
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd1s3KzrhonEUiwRfw7Ex76LHh4-Jf9dSMRP58FNf7k9jzGtg/viewform?embedded=true" width="320" height="1200" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
