@@ -16,7 +16,7 @@ pageRef = "posts"
 weight = 10
 
 [[main]]
-name = "Corso"
+name = "Corsi"
 pageRef = "gdr-strumento-formativo"
 weight = 20
 
@@ -26,8 +26,8 @@ pageRef = "webinar"
 weight = 20
 
 [[main]]
-name = "Corso"
-pageRef = "webinar"
+name = "Corsi"
+pageRef = "gdr-strumento-formativo"
 weight = 20
 
 #[[main]]
