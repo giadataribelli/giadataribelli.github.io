@@ -1,5 +1,5 @@
 ---
-title: "Corsi e webinar"
+title: "Corsi di formazione"
 description: "Corsi di formazione e webinar di approfondimento sul Gioco di Ruolo come strumento educativo"
 
 cascade:
