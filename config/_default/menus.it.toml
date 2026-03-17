@@ -17,7 +17,7 @@ weight = 10
 
 [[main]]
 name = "Corso"
-pageRef = "gdr-strumento-formativo-2025"
+pageRef = "gdr-strumento-formativo"
 weight = 20
 
 #[[main]]
