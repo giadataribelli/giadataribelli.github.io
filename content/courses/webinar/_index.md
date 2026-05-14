@@ -8,11 +8,11 @@ cascade:
   invertPagination: true
 ---
 
-## Webinar in programma
+## Come funzionano i webinar
 
 I webinar hanno una durata di due ore, dalle 20 alle 22, e si concentrano su un unico argomento alla volta.
 Per assistere durante la diretta e avere la possibilità di fare delle domande è necessario prenotarsi quando vengono aperte le iscrizioni di volta in volta.
-Per rimanere aggiornati consiglio di entrare nel gruppo broadcast sul profilo Instagram.
+Per rimanere aggiornati consiglio di entrare nel **gruppo broadcast sul profilo Instagram**.
 La quota di partecipazione è di **30 euro**, con il 50% di sconto per coloro che hanno partecipato privatamente a un corso di formazione con quota non agevolata.
 
 ## Webinar già registrati
