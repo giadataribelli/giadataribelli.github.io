@@ -19,7 +19,7 @@ I **webinar** sono videolezioni su singoli argomenti, in cui c'è un approfondim
 ## Sperimentare il GdR e gli strumenti di debriefing, imparare a scrivere un'avventura, sperimentarsi nel ruolo di Master
 
 ### A chi è dedicato
-Corso pensato per chi non conosce bene lo strumento e vuole sperimentare dal vivo cosa significhi giocare una sessione di gioco di ruolo, ma anche quali possano essere degli strumenti di debriefing. Sono i benvenuti anche tutti coloro che conoscono già lo strumento ma non si sono mai sperimentati come master.
+Corso pensato per chi non conosce bene lo strumento e vuole sperimentare dal vivo cosa significhi giocare una sessione di gioco di ruolo, ma anche quali possano essere degli strumenti di debriefing. Sono i benvenuti anche tutti coloro che conoscono già lo strumento, ma non si sono mai sperimentati come master.
 
 ### Modalità
 Due weekend in presenza in cui passare dalla sperimentazione alla teoria, per poi tornare dalla teoria alla pratica.
@@ -27,7 +27,7 @@ Le quattro giornate di formazione intensiva saranno dalle 9 alle 18, con una pau
 Il corso partirà con un numero minimo di 6 partecipanti e un numero massimo di 10 partecipanti. Saranno presenti due formatrici (Giada Taribelli e Giulia Misani).
 
 ### Luogo:
-È molto probabile che sarà presso Blue Zone Studio in Via Paolo Veronese, 4 Varese (VA)
+È molto probabile che sarà in zona Varese o in zona Monza.
 
 ### Contenuti:
 
@@ -43,7 +43,7 @@ Il corso partirà con un numero minimo di 6 partecipanti e un numero massimo di 
 • Sessione con prove da master e feedback
 
 ### Quota di partecipazione: 480€
-### Le iscrizioni apriranno il prossimo anno, se vuoi ricevere un avviso compila il form in fondo alla pagina
+### Al momento non ci sono corsi in programma, probabilmente il prossimo aprirà le iscrizioni nel 2027. Se vuoi ricevere un avviso compila il form in fondo alla pagina.
 
 # CORSO BASE ONLINE
 ## Scrivi l'avventura per il tuo progetto: dall'idea alla stesura
@@ -52,7 +52,7 @@ Il corso partirà con un numero minimo di 6 partecipanti e un numero massimo di 
 Corso pensato per chi ha bisogno di essere accompagnato nella stesura di un'avventura pensata ad hoc per il proprio progetto educativo.
 
 ### Modalità
-Sei incontri online in cui imparare a muoversi nella strutturazione e nella stesura di un'avventura di gioco di ruolo a partire dall'idea di progetto, dal target di utenti e dalla tematica educativa che si vuole approfondire. Sono previsi molti momenti di lavoro di gruppo per scrivere assieme ad altri professionisti una sessione che possa essere utilizzata nel proprio progetto. È possibile che questo richieda anche del lavoro a casa oltre ai momenti di formazione, completando alcuni compiti in modo da arrivare alla fine del corso con un lavoro completo che possa ricevere dei feedback dalla formatrice. 
+Sei incontri online in cui imparare a muoversi nella strutturazione e nella stesura di un'avventura di gioco di ruolo a partire dall'idea di progetto, dal target di utenti e dalla tematica educativa che si vuole approfondire. Sono previsi molti momenti di lavoro di gruppo per scrivere assieme ad altri professionisti una sessione che possa essere utilizzata nel proprio progetto. È possibile che questo richieda anche del lavoro a casa oltre ai momenti di formazione, completando alcuni compiti in modo da arrivare alla fine del corso con un lavoro completo che possa ricevere dei feedback dalla formatrice.
 I sei incontri online sono una sera in settimana dalle 18:00 alle 20:30. Per un totale di **15 ore di formazione diretta + 10 ore circa di formazione indiretta** (compiti a casa).
 Il corso partirà con un numero minimo di 8 partecipanti e un numero massimo di 16 partecipanti.
 
@@ -70,7 +70,7 @@ Il corso partirà con un numero minimo di 8 partecipanti e un numero massimo di 
 • Il ruolo del Custode del Campo
 
 ### Quota di partecipazione: 280€
-### Le iscrizioni apriranno il prossimo anno, se vuoi ricevere un avviso compila il form in fondo alla pagina
+### Al momento non ci sono corsi in programma, probabilmente il prossimo aprirà le iscrizioni nel 2027. Se vuoi ricevere un avviso compila il form in fondo alla pagina.
 
 
 ---
